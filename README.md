@@ -1,5 +1,5 @@
 # TaxesCalculator
-University CS programming exercise in C Language - 1st project of "Programming Fundamentals" of UTFPR
+Simple programming exercise in C Language - 1st project of "Programming Fundamentals" of UTFPR
 
 # Exercise:
 Every beginning of the month it is time for the income tax return in the Democratic Republic of Leyzistan, a Eastern European absolutist dictatorship. Economy Minister Bogdan Baldowzky decided that each citizen must report monthly their earnings in the previous month (in local currency), in a letter filed in 3 copies, with notarized signature. The article of the tax payable in the month is based on tables that are readjusted annually. The table for this year is the following:
